@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,100:764ba2&height=200&section=header&text=Franvilla03&desc=Full%20Stack%20Developer%20|%20Cloud%20Computing&fontSize=50&fontColor=fff&descSize=18&descAlignY=68&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,100:764ba2&height=200&section=header&text=Franvillacabero&desc=Full%20Stack%20Developer%20|%20Cloud%20Computing&fontSize=50&fontColor=fff&descSize=18&descAlignY=68&fontAlignY=38" width="100%"/>
 
 ## SOBRE MÍ <br>
 Joven de 23 años <br>
@@ -35,14 +35,14 @@ continuo en tecnologías emergentes. <br>
 
 ## 📊 Estadísticas de GitHub
 <div align="center">
-  <a href="https://github.com/Franvilla03">
+  <a href="https://github.com/Franvillacabero">
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Franvilla03&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Franvilla03&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Franvilla03&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Franvillacabero&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Franvillacabero&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Franvillacabero&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1" alt="GitHub Streak" />
  
 </div>
 
@@ -51,12 +51,12 @@ continuo en tecnologías emergentes. <br>
 ## 🏆 Logros en github
 
 <div align="center">
- <a href="https://github.com/Franvilla03">
-    <img src="https://github-profile-trophy.vercel.app/?username=Franvilla03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+ <a href="https://github.com/Franvillacabero">
+    <img src="https://github-profile-trophy.vercel.app/?username=Franvillacabero&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Franvilla03&label=Visitas%20al%20perfil&color=58a6ff&style=flat" alt="Visitas al perfil" />
+  <img src="https://komarev.com/ghpvc/?username=Franvillacabero&label=Visitas%20al%20perfil&color=58a6ff&style=flat" alt="Visitas al perfil" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
