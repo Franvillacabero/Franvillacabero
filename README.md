@@ -2,12 +2,11 @@
 
 ## SOBRE MÍ <br>
 Joven de 23 años <br>
-💻 Desarrollador apasionado por la programación. <br>
-🚀 Especializado en desarrollo web y con gran interés en Inteligencia Artificial. <br>
+🚀 Especializado en desarrollo web y desarrollo de aplicaciones. <br>
 ☁️ Gran entusiasta de la computación en la nube. <br>
-🌐 Enfocado en crear aplicaciones web inteligentes y explorar las fronteras de la IA. <br>
-📈 Comprometido con la excelencia técnica y el aprendizaje continuo en tecnologías emergentes. <br>
-🚀 ¡Conectemos para compartir ideas y desarrollar el futuro de la tecnología! <br>
+📈 Comprometido con la excelencia técnica y el aprendizaje <br>
+continuo en tecnologías emergentes. <br>
+📬 Disponible para nuevas oportunidades y proyectos. <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
