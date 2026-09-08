@@ -4,8 +4,7 @@
 Joven de 23 años <br>
 🚀 Especializado en desarrollo web y desarrollo de aplicaciones. <br>
 ☁️ Gran entusiasta de la computación en la nube. <br>
-📈 Comprometido con la excelencia técnica y el aprendizaje <br>
-continuo en tecnologías emergentes. <br>
+📈 Comprometido con la excelencia técnica y el aprendizaje continuo en tecnologías emergentes. <br>
 📬 Disponible para nuevas oportunidades y proyectos. <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
