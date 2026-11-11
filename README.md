@@ -49,7 +49,4 @@ Joven de 23 años <br>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Franvillacabero&label=Visitas%20al%20perfil&color=58a6ff&style=flat" alt="Visitas al perfil" />
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" width="100%"/>
